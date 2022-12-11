@@ -1,0 +1,13 @@
+{
+  "name": "dark-light-mode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "host": "vite --host"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^4.0.0"
+  }
+}

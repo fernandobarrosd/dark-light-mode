@@ -1,0 +1,17 @@
+[data-theme="light"] {
+    --bg-color: #FFFFFF;
+    --text-color: #000000;
+    --line-color: #000000;
+    --input-switch-position: 4px;
+    --input-switch-ball-transition: .2s;
+    --transition: .2s;
+}
+
+[data-theme="dark"] {
+    --bg-color: #000000;
+    --text-color: #FFFFFF;
+    --line-color: #FFFFFF;
+    --input-switch-position: 53px;
+    --input-switch-ball-transition: .2s;
+    --transition: .2s;
+}
